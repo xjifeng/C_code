@@ -1,0 +1,4 @@
+﻿  Homework.c
+D:\Code\Test 4_10\Project2\Homework.c(81,1): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+D:\Code\Test 4_10\Project2\Homework.c(78,9): warning C4101: 'sec': unreferenced local variable
+  Project2.vcxproj -> D:\Code\Test 4_10\Project2\Debug\Project2.exe
